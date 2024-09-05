@@ -20,6 +20,6 @@ The following are exercises for the technical support positions.
 
 ## **Title: Documentation**
 
-- **Objecitve:** You will review the take-home exercise and discuss your use of documentation to handle support in the past. 
+- **Objective:** You will review the take-home exercise and discuss your use of documentation to handle support in the past. 
 
 - **Candidate Prep:** Be prepared to discuss how you researched and answered each question and to walk through Cockroach Labs' documentation more generally.
